@@ -8,5 +8,24 @@
     "express-session": "^1.17.3",
     "mysql2": "^2.3.3",
     "sequelize": "^6.23.2"
-  }
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "tech-blog",
+  "description": "",
+  "version": "1.0.0",
+  "main": "server.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FatihSul/Tech-Blog.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FatihSul/Tech-Blog/issues"
+  },
+  "homepage": "https://github.com/FatihSul/Tech-Blog#readme"
 }
